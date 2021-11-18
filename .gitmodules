@@ -1,0 +1,4 @@
+[submodule "blog_elias/public"]
+	path = blog_elias/public
+	url = git@github.com:elias-ramzi/elias-ramzi.github.io.git
+	branch = main
