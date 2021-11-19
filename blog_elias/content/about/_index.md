@@ -32,21 +32,21 @@ affiliations:
 academia:
     - course:
         degree: "Ph.D."
-        institution:  "Conservatoire national des arts et métiers"
+        institution:  "Conservatoire national des arts et métiers (Paris, France)"
         major: "Deep Learning for Image Retrieval"
         start_date: "2021"
     - course:
-        degree: "M.Sc."
-        institution: 'CentraleSupelec (France)'
-        major: 'Signal processing'
+        degree: "Engineering degree"
+        institution: 'CentraleSupelec (Paris, France)'
+        major: 'Information and Robotic Systems'
         start_date: '2016'
         end_date: '2020'
 ---
 
-**Donec** sollicitudin, [ante][1] pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae, tincidunt sed mi. In at dui lectus. Integer ante arcu, vestibulum fermentum ante eu, maximus maximus quam. Curabitur placerat cursus posuere. Phasellus dui lorem, varius a augue non, eleifend accumsan mauris. Aenean varius posuere feugiat. In hac habitasse platea dictumst. Aenean quis ex quis nisl consequat fermentum in vitae nunc. Proin consectetur ac nulla in tempus. Maecenas enim nisi, pulvinar sit amet fermentum eget, ultrices vitae enim. Etiam vel sollicitudin felis.
+Hi ! I am Elias Ramzi I am a PhD student in Artificial Intelligence at the Cnam in the Vertigo team. I graduated from CentraleSupelec (engineering degree) with a major in computer science and machine learning.
+I started my PhD in the Cnam in January 2021 under the supervision of [Nicolas Thome][1]. My PhD if co-funded by [Coexya][2] which develops intellectual property softwares, including a trademark logo search engine.
+I am working in the field of Content Based Image Retrieval using Deep Learning models.
 
 
-Donec sollicitudin, ante pulvinar tincidunt luctus, dolor mauris lobortis ex, id tincidunt metus risus nec ex. Curabitur magna mauris, facilisis vitae porttitor vitae,
-
-
-[1]: ahadsfsa.com
+[1]: http://cedric.cnam.fr/~thomen/
+[2]: https://www.coexya.eu/
